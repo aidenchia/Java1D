@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Bookr</string>
+    <string name="find_space">Find a space for...</string>
+    <string name="date">Enter Date</string>
+    <string name="duration">Enter Duration</string>
+    <string name="start_time">Start Time</string>
+    <string name="end_time">End Time</string>
+    <string name="rooms_available">Rooms Available:</string>
+    <string name="time_problem">Start time must be before end time</string>
+    <string-array name="timings_array">
+            <item>7am</item>
+            <item>8am</item>
+            <item>9am</item>
+            <item>10am</item>
+            <item>11am</item>
+            <item>12pm</item>
+            <item>1pm</item>
+            <item>2pm</item>
+            <item>3pm</item>
+            <item>4pm</item>
+            <item>5pm</item>
+            <item>6pm</item>
+            <item>7pm</item>
+            <item>8pm</item>
+            <item>9pm</item>
+            <item>10pm</item>
+    </string-array>
+    <string name="half_hour">0.5 Hour</string>
+    <string name="one_hour">1 Hour</string>
+    <string name="two_hours">2 Hours</string>
+    <string name="book">Book</string>
+</resources>
